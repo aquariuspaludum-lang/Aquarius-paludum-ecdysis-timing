@@ -176,7 +176,7 @@ If you use this dataset, please cite the associated paper:
 
 > Kishi M. (in press) Light-dependent effects of feeding timing on the daily timing of ecdysis in the water strider *Aquarius paludum* (Hemiptera: Gerridae). *[Journal — to be completed]*. https://doi.org/[to be added]
 
-Data archived at: [Repository name]. https://doi.org/[to be added upon deposition]
+Data archived at: GitHub. https://github.com/aquariuspaludum-lang/Aquarius-paludum-ecdysis-timing (DOI to be added upon publication)
 
 ---
 
